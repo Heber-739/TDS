@@ -1,0 +1,16 @@
+C:\Users\ICBC\source\repos\SocietyBook\bin\Debug\net6.0-windows\SocietyBook.exe
+C:\Users\ICBC\source\repos\SocietyBook\bin\Debug\net6.0-windows\SocietyBook.deps.json
+C:\Users\ICBC\source\repos\SocietyBook\bin\Debug\net6.0-windows\SocietyBook.runtimeconfig.json
+C:\Users\ICBC\source\repos\SocietyBook\bin\Debug\net6.0-windows\SocietyBook.dll
+C:\Users\ICBC\source\repos\SocietyBook\bin\Debug\net6.0-windows\SocietyBook.pdb
+C:\Users\ICBC\source\repos\SocietyBook\obj\Debug\net6.0-windows\SocietyBook.Form1.resources
+C:\Users\ICBC\source\repos\SocietyBook\obj\Debug\net6.0-windows\SocietyBook.csproj.GenerateResource.cache
+C:\Users\ICBC\source\repos\SocietyBook\obj\Debug\net6.0-windows\SocietyBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICBC\source\repos\SocietyBook\obj\Debug\net6.0-windows\SocietyBook.AssemblyInfoInputs.cache
+C:\Users\ICBC\source\repos\SocietyBook\obj\Debug\net6.0-windows\SocietyBook.AssemblyInfo.cs
+C:\Users\ICBC\source\repos\SocietyBook\obj\Debug\net6.0-windows\SocietyBook.csproj.CoreCompileInputs.cache
+C:\Users\ICBC\source\repos\SocietyBook\obj\Debug\net6.0-windows\SocietyBook.dll
+C:\Users\ICBC\source\repos\SocietyBook\obj\Debug\net6.0-windows\refint\SocietyBook.dll
+C:\Users\ICBC\source\repos\SocietyBook\obj\Debug\net6.0-windows\SocietyBook.pdb
+C:\Users\ICBC\source\repos\SocietyBook\obj\Debug\net6.0-windows\SocietyBook.genruntimeconfig.cache
+C:\Users\ICBC\source\repos\SocietyBook\obj\Debug\net6.0-windows\ref\SocietyBook.dll

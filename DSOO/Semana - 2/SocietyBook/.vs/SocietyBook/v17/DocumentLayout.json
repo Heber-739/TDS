@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ICBC\\source\\repos\\SocietyBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3E3924-B47D-4489-A6F2-EB2FC8CC95CA}|SocietyBook.csproj|c:\\users\\icbc\\source\\repos\\societybook\\partner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3E3924-B47D-4489-A6F2-EB2FC8CC95CA}|SocietyBook.csproj|solutionrelative:partner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3E3924-B47D-4489-A6F2-EB2FC8CC95CA}|SocietyBook.csproj|c:\\users\\icbc\\source\\repos\\societybook\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3E3924-B47D-4489-A6F2-EB2FC8CC95CA}|SocietyBook.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3E3924-B47D-4489-A6F2-EB2FC8CC95CA}|SocietyBook.csproj|c:\\users\\icbc\\source\\repos\\societybook\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F3E3924-B47D-4489-A6F2-EB2FC8CC95CA}|SocietyBook.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3E3924-B47D-4489-A6F2-EB2FC8CC95CA}|SocietyBook.csproj|c:\\users\\icbc\\source\\repos\\societybook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3E3924-B47D-4489-A6F2-EB2FC8CC95CA}|SocietyBook.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3E3924-B47D-4489-A6F2-EB2FC8CC95CA}|SocietyBook.csproj|c:\\users\\icbc\\source\\repos\\societybook\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3E3924-B47D-4489-A6F2-EB2FC8CC95CA}|SocietyBook.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3E3924-B47D-4489-A6F2-EB2FC8CC95CA}|SocietyBook.csproj|c:\\users\\icbc\\source\\repos\\societybook\\societybook.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9F3E3924-B47D-4489-A6F2-EB2FC8CC95CA}|SocietyBook.csproj|solutionrelative:societybook.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 174,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Partner.cs",
+              "DocumentMoniker": "C:\\Users\\ICBC\\source\\repos\\SocietyBook\\Partner.cs",
+              "RelativeDocumentMoniker": "Partner.cs",
+              "ToolTip": "C:\\Users\\ICBC\\source\\repos\\SocietyBook\\Partner.cs",
+              "RelativeToolTip": "Partner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T01:23:40.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ICBC\\source\\repos\\SocietyBook\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ICBC\\source\\repos\\SocietyBook\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T00:43:43.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SocietyBook",
+              "DocumentMoniker": "C:\\Users\\ICBC\\source\\repos\\SocietyBook\\SocietyBook.csproj",
+              "RelativeDocumentMoniker": "SocietyBook.csproj",
+              "ToolTip": "C:\\Users\\ICBC\\source\\repos\\SocietyBook\\SocietyBook.csproj",
+              "RelativeToolTip": "SocietyBook.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-02T00:37:43.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ICBC\\source\\repos\\SocietyBook\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ICBC\\source\\repos\\SocietyBook\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwDEAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T00:34:05.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ICBC\\source\\repos\\SocietyBook\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\ICBC\\source\\repos\\SocietyBook\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAvwI8AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T00:33:39.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ICBC\\source\\repos\\SocietyBook\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ICBC\\source\\repos\\SocietyBook\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T00:32:46.416Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
