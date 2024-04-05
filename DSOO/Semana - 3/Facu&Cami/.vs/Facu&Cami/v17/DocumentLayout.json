@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ICBC\\source\\repos\\Facu\u0026Cami\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62E67101-4EB6-4C2B-A765-B1A55DDD31BB}|Facu\u0026Cami.csproj|C:\\Users\\ICBC\\source\\repos\\Facu\u0026Cami\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E67101-4EB6-4C2B-A765-B1A55DDD31BB}|Facu\u0026Cami.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E67101-4EB6-4C2B-A765-B1A55DDD31BB}|Facu\u0026Cami.csproj|C:\\Users\\ICBC\\source\\repos\\Facu\u0026Cami\\televisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E67101-4EB6-4C2B-A765-B1A55DDD31BB}|Facu\u0026Cami.csproj|solutionrelative:televisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E67101-4EB6-4C2B-A765-B1A55DDD31BB}|Facu\u0026Cami.csproj|C:\\Users\\ICBC\\source\\repos\\Facu\u0026Cami\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E67101-4EB6-4C2B-A765-B1A55DDD31BB}|Facu\u0026Cami.csproj|solutionrelative:persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E67101-4EB6-4C2B-A765-B1A55DDD31BB}|Facu\u0026Cami.csproj|c:\\users\\icbc\\source\\repos\\facu\u0026cami\\domicilio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E67101-4EB6-4C2B-A765-B1A55DDD31BB}|Facu\u0026Cami.csproj|solutionrelative:domicilio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Televisor.cs",
+              "DocumentMoniker": "C:\\Users\\ICBC\\source\\repos\\Facu\u0026Cami\\Televisor.cs",
+              "RelativeDocumentMoniker": "Televisor.cs",
+              "ToolTip": "C:\\Users\\ICBC\\source\\repos\\Facu\u0026Cami\\Televisor.cs",
+              "RelativeToolTip": "Televisor.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwDoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T01:12:50.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Domicilio.cs",
+              "DocumentMoniker": "C:\\Users\\ICBC\\source\\repos\\Facu\u0026Cami\\Domicilio.cs",
+              "RelativeDocumentMoniker": "Domicilio.cs",
+              "ToolTip": "C:\\Users\\ICBC\\source\\repos\\Facu\u0026Cami\\Domicilio.cs",
+              "RelativeToolTip": "Domicilio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T01:12:18.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\ICBC\\source\\repos\\Facu\u0026Cami\\Persona.cs",
+              "RelativeDocumentMoniker": "Persona.cs",
+              "ToolTip": "C:\\Users\\ICBC\\source\\repos\\Facu\u0026Cami\\Persona.cs",
+              "RelativeToolTip": "Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T01:07:00.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ICBC\\source\\repos\\Facu\u0026Cami\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ICBC\\source\\repos\\Facu\u0026Cami\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T01:03:20.791Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

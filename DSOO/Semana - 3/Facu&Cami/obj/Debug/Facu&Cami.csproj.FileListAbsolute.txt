@@ -1,0 +1,7 @@
+C:\Users\ICBC\source\repos\Facu&Cami\bin\Debug\Facu&Cami.exe.config
+C:\Users\ICBC\source\repos\Facu&Cami\bin\Debug\Facu&Cami.exe
+C:\Users\ICBC\source\repos\Facu&Cami\bin\Debug\Facu&Cami.pdb
+C:\Users\ICBC\source\repos\Facu&Cami\obj\Debug\Facu&Cami.csproj.AssemblyReference.cache
+C:\Users\ICBC\source\repos\Facu&Cami\obj\Debug\Facu&Cami.csproj.CoreCompileInputs.cache
+C:\Users\ICBC\source\repos\Facu&Cami\obj\Debug\Facu&Cami.exe
+C:\Users\ICBC\source\repos\Facu&Cami\obj\Debug\Facu&Cami.pdb
