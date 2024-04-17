@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ICBC\\source\\repos\\Registro_de_alumnos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95333250-EBE1-44C2-A837-D9B0C0ABB87B}|Registro_de_alumnos.csproj|c:\\users\\icbc\\source\\repos\\registro_de_alumnos\\form_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95333250-EBE1-44C2-A837-D9B0C0ABB87B}|Registro_de_alumnos.csproj|solutionrelative:form_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95333250-EBE1-44C2-A837-D9B0C0ABB87B}|Registro_de_alumnos.csproj|c:\\users\\icbc\\source\\repos\\registro_de_alumnos\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95333250-EBE1-44C2-A837-D9B0C0ABB87B}|Registro_de_alumnos.csproj|solutionrelative:register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95333250-EBE1-44C2-A837-D9B0C0ABB87B}|Registro_de_alumnos.csproj|c:\\users\\icbc\\source\\repos\\registro_de_alumnos\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95333250-EBE1-44C2-A837-D9B0C0ABB87B}|Registro_de_alumnos.csproj|solutionrelative:register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95333250-EBE1-44C2-A837-D9B0C0ABB87B}|Registro_de_alumnos.csproj|c:\\users\\icbc\\source\\repos\\registro_de_alumnos\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95333250-EBE1-44C2-A837-D9B0C0ABB87B}|Registro_de_alumnos.csproj|solutionrelative:register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95333250-EBE1-44C2-A837-D9B0C0ABB87B}|Registro_de_alumnos.csproj|c:\\users\\icbc\\source\\repos\\registro_de_alumnos\\clases\\postulante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95333250-EBE1-44C2-A837-D9B0C0ABB87B}|Registro_de_alumnos.csproj|solutionrelative:clases\\postulante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 188,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 398,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ICBC\\source\\repos\\Registro_de_alumnos\\Register.cs",
+              "RelativeDocumentMoniker": "Register.cs",
+              "ToolTip": "C:\\Users\\ICBC\\source\\repos\\Registro_de_alumnos\\Register.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Register.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T23:27:35.709Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form_login.cs",
+              "DocumentMoniker": "C:\\Users\\ICBC\\source\\repos\\Registro_de_alumnos\\Form_login.cs",
+              "RelativeDocumentMoniker": "Form_login.cs",
+              "ToolTip": "C:\\Users\\ICBC\\source\\repos\\Registro_de_alumnos\\Form_login.cs",
+              "RelativeToolTip": "Form_login.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wBMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T22:51:02.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Postulante.cs",
+              "DocumentMoniker": "C:\\Users\\ICBC\\source\\repos\\Registro_de_alumnos\\clases\\Postulante.cs",
+              "RelativeDocumentMoniker": "clases\\Postulante.cs",
+              "ToolTip": "C:\\Users\\ICBC\\source\\repos\\Registro_de_alumnos\\clases\\Postulante.cs",
+              "RelativeToolTip": "clases\\Postulante.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAewC0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T21:57:00.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ICBC\\source\\repos\\Registro_de_alumnos\\Register.Designer.cs",
+              "RelativeDocumentMoniker": "Register.Designer.cs",
+              "ToolTip": "C:\\Users\\ICBC\\source\\repos\\Registro_de_alumnos\\Register.Designer.cs",
+              "RelativeToolTip": "Register.Designer.cs",
+              "ViewState": "AQIAALMAAAAAAAAAAAAqwNIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T21:51:00.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\ICBC\\source\\repos\\Registro_de_alumnos\\Register.cs",
+              "RelativeDocumentMoniker": "Register.cs",
+              "ToolTip": "C:\\Users\\ICBC\\source\\repos\\Registro_de_alumnos\\Register.cs",
+              "RelativeToolTip": "Register.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAADwv2gAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T21:51:45.138Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 134,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
