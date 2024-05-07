@@ -1,0 +1,40 @@
+[
+  {
+    "venc_pago": "0001-01-01T00:00:00",
+    "id_client": "d617b154-7459-462e-a459-dca2665cb0c9",
+    "names": "heber",
+    "birthday": "1/1/2010",
+    "email": "asd",
+    "dni": "123",
+    "actividades": [],
+    "apt_fisica": true
+  },
+  {
+    "venc_pago": "0001-01-01T00:00:00",
+    "id_client": "0c4a77cb-6217-4854-964f-43a7cf0b0e8d",
+    "names": "san",
+    "birthday": "1/1/2010",
+    "email": "asdsad@asdd.com",
+    "dni": "132",
+    "actividades": [],
+    "apt_fisica": true
+  },
+  {
+    "venc_pago": "0001-01-01T00:00:00",
+    "id_client": "541a9db6-5d3e-4436-8a7e-84a4a2421653",
+    "names": "noel",
+    "birthday": "1/1/2010",
+    "email": "asdasd",
+    "dni": "1234",
+    "actividades": [
+      {
+        "socios": [],
+        "nombre": "Boxeo",
+        "fecha": "Miércoles 18:30 a 20:00hs",
+        "profesor": "Miguel Soto",
+        "cupo": 0
+      }
+    ],
+    "apt_fisica": true
+  }
+]

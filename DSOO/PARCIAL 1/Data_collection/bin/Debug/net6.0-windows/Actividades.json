@@ -1,0 +1,84 @@
+[
+  {
+    "socios": [],
+    "nombre": "Musculacion",
+    "fecha": "Martes 19:00 a 20:30hs",
+    "profesor": "Emilio Roque",
+    "cupo": 25
+  },
+  {
+    "socios": [],
+    "nombre": "Cardio",
+    "fecha": "Lunes 18:30 a 19:30hs",
+    "profesor": "Ana García",
+    "cupo": 20
+  },
+  {
+    "socios": [],
+    "nombre": "Zumba",
+    "fecha": "Miércoles 20:00 a 21:00hs",
+    "profesor": "Carlos Martínez",
+    "cupo": 30
+  },
+  {
+    "socios": [],
+    "nombre": "Yoga",
+    "fecha": "Jueves 17:00 a 18:30hs",
+    "profesor": "Laura Sánchez",
+    "cupo": 15
+  },
+  {
+    "socios": [],
+    "nombre": "Pilates",
+    "fecha": "Viernes 9:30 a 10:30hs",
+    "profesor": "Juan Pérez",
+    "cupo": 20
+  },
+  {
+    "socios": [],
+    "nombre": "Spinning",
+    "fecha": "Martes 18:00 a 19:00hs",
+    "profesor": "María Rodríguez",
+    "cupo": 25
+  },
+  {
+    "socios": [],
+    "nombre": "Crossfit",
+    "fecha": "Sábado 10:00 a 11:30hs",
+    "profesor": "Pedro Gómez",
+    "cupo": 15
+  },
+  {
+    "socios": [],
+    "nombre": "Natacion",
+    "fecha": "Lunes 20:00 a 21:00hs",
+    "profesor": "Sofía Fernández",
+    "cupo": 20
+  },
+  {
+    "socios": [
+      {
+        "Id": "d617b154-7459-462e-a459-dca2665cb0c9",
+        "Name": "heber"
+      }
+    ],
+    "nombre": "Boxeo",
+    "fecha": "Miércoles 18:30 a 20:00hs",
+    "profesor": "Miguel Soto",
+    "cupo": 19
+  },
+  {
+    "socios": [],
+    "nombre": "Judo",
+    "fecha": "Viernes 18:00 a 19:30hs",
+    "profesor": "Lucía Torres",
+    "cupo": 20
+  },
+  {
+    "socios": [],
+    "nombre": "Escalada",
+    "fecha": "Sábado 15:00 a 16:30hs",
+    "profesor": "Daniel López",
+    "cupo": 10
+  }
+]

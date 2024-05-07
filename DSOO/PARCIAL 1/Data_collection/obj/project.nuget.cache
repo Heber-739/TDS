@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EsinIkU1P4QqExKLrx5wb9FhMfZ/r8dsKsJm+i6SZRRATg4vsmvfWQFliHh2eVzw/uY3kXEqYHfkygYyroS7mw==",
+  "success": true,
+  "projectFilePath": "C:\\source\\repos\\Data_collection\\Data_collection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ICBC\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
