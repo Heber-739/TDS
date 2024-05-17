@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(AddActivityToPartner));
             txtPartnerId = new TextBox();
             lblPartnerId = new Label();
             lblActivity = new Label();
@@ -107,7 +106,7 @@
             btnSearch.FlatStyle = FlatStyle.Popup;
             btnSearch.Font = new Font("Comic Sans MS", 12F, FontStyle.Regular, GraphicsUnit.Point);
             btnSearch.ForeColor = SystemColors.ButtonFace;
-            btnSearch.Image = (Image)resources.GetObject("btnSearch.Image");
+            btnSearch.Image = Properties.Resources.search1;
             btnSearch.Location = new Point(370, 149);
             btnSearch.Name = "btnSearch";
             btnSearch.Size = new Size(38, 31);

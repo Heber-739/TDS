@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(ClubDeportivo));
             picLogo = new PictureBox();
             btnNewPartner = new Button();
             btnAddActivity = new Button();
@@ -37,7 +36,7 @@
             // 
             // picLogo
             // 
-            picLogo.Image = (Image)resources.GetObject("picLogo.Image");
+            picLogo.Image = Properties.Resources.logo;
             picLogo.Location = new Point(39, 6);
             picLogo.Name = "picLogo";
             picLogo.Size = new Size(217, 192);

@@ -21,3 +21,4 @@ C:\source\repos\Data_collection\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
 C:\source\repos\Data_collection\obj\Debug\net6.0-windows\Data_collection.csproj.AssemblyReference.cache
 C:\source\repos\Data_collection\obj\Debug\net6.0-windows\Data_col.3F8BF795.Up2Date
 C:\source\repos\Data_collection\obj\Debug\net6.0-windows\Data_collection.ClientsViewer.resources
+C:\source\repos\Data_collection\obj\Debug\net6.0-windows\Data_collection.Login.resources
